@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Welcome to My Hugo Site on My New Hugo Site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Welcome to My Hugo Site on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to our About page! We are a passionate team dedicated to creating amazing content and experiences.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;Our mission is to provide valuable information and resources to our visitors. We believe in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quality content&lt;/li&gt;&#xA;&lt;li&gt;User-friendly experience&lt;/li&gt;&#xA;&lt;li&gt;Continuous improvement&lt;/li&gt;&#xA;&lt;li&gt;Community engagement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;our-team&#34;&gt;Our Team&lt;/h2&gt;&#xA;&lt;p&gt;We are a diverse team of professionals committed to excellence in everything we do.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Back to Home&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h1&gt;&#xA;&lt;p&gt;We&amp;rsquo;d love to hear from you! Here&amp;rsquo;s how you can reach us:&lt;/p&gt;&#xA;&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:contact@example.com&#34;&gt;contact@example.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; (555) 123-4567&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Address:&lt;/strong&gt; 123 Main Street, City, Country&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact-form&#34;&gt;Contact Form&lt;/h2&gt;&#xA;&lt;p&gt;Please fill out the form below and we&amp;rsquo;ll get back to you as soon as possible.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Back to Home&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
